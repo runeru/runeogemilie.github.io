@@ -1,4 +1,5 @@
-remote_theme: pages-themes/modernist@v0.2.0
+theme: jekyll-theme-cayman
+# remote_theme: pages-themes/modernist@v0.2.0
 title: Rune & Emilie sin side
 description: En side med nyttige ting vi vil huske
 
@@ -7,5 +8,3 @@ description: En side med nyttige ting vi vil huske
 plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
-
-theme: jekyll-theme-cayman
