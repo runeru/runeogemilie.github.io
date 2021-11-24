@@ -7,3 +7,5 @@ description: En side med nyttige ting vi vil huske
 plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
+
+theme: jekyll-theme-cayman
