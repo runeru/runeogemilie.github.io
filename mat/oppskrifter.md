@@ -1,7 +1,7 @@
 # Oppskrifter på ting vi syns er digg!
 
 <p align="center">
- <br><br>
+ <br>
  • <a href="#kombucha">Kombucha</a> • <a href="#pizza">Pizza</a> • <a href="#ketchup">Ketchup</a>
  <br>
 </p>
