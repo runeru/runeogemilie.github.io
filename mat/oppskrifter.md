@@ -2,6 +2,7 @@
 
 <p align="center">
  • <a href="#kombucha">Kombucha</a> • <a href="#pizza">Pizza</a> • <a href="#ketchup">Ketchup</a>
+ <br>
 </p>
 
 
