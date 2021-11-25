@@ -1,4 +1,4 @@
-## Welcome to Rune & Emilie's homepage
+## Velkommen til Rune & Emilie sin hjemmeside 
 
 yeei
 
