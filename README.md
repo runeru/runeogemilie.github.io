@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  <strong> Kategorier:
+ <strong> Kategorier:</strong>
 </h3>
 
 
