@@ -14,7 +14,8 @@
 
 
 ## Mat
-
+Alt av matoppskrifter funner du ved å [klikke her](./mat/oppskrifter.md).
+ 
 ## Sanking
   
 ## Koding
