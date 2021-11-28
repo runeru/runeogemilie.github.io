@@ -4,7 +4,7 @@
  <br>
  <h3>
  • <a href="#kombucha">Kombucha</a> • <a href="#pizza">Pizza</a> • <a href="#ketchup">Ketchup</a> • <a href="#">Noe annet</a> • <a href="#">Digg</a>
-  <h3>
+  </h3>
  <br>
 </p>
 <hr>
