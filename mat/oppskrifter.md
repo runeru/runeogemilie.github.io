@@ -9,10 +9,19 @@
 
 
 ## Kombucha:
+
+<h3>
+ <br>
+ <img src="images/kombucha-batch1.png" alt="Komucha i glass" width="200">
+ <br>
+ </h3>
+
+### Ingredienser
 1. Te
 2. vann
 3. sukker
 
+### Slik gjør du
 
 <br>
 <hr>
