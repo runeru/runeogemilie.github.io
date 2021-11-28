@@ -17,7 +17,9 @@
  </h3>
  
  <p>
-Kombucha er frermentert te. Smaker friskt og godt!
+Kombucha er fermentert te. 
+ <br>
+Friskt, godt og kjempe sundt!
 </p>
 
 ### Ingredienser
