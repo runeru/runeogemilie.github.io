@@ -51,6 +51,17 @@ Vår klassiske torsdags-pizza!
 * 325ml vann (romtemperert. Bedre for kaldt enn for varmt)
 
 ### Pizzasausen
+* 1/2 løk
+* 6 hvitløksfedd (eller 1kinesisk hvitløk)
+* 3ss olivenolje
+* 4ss tomatpurè
+* 1 boks hakka tomater
+* 3ts oregano
+* 2ts timian
+* 2ts basilikum
+* salt og pepper
+* Vi har også pleid å ha i safta fra 1 boks annanas
+
 
 ### Slik gjør du
 1. Ha alle de tørre inngrediensene i en bolle. 
@@ -62,8 +73,9 @@ Nå er en fin tid å starte på sausen:
 1. Finhakk løk og hvitløk og stek dem gyldne i panna
 2. Ha oppi tomatpurè og hakka tomater
 3. Ha oppi krydderne og smak til med salt og pepper
-4. La stå og småkoke til pizzadeigen er klar. Apropos:
+4. La stå og småkoke til pizzadeigen er klar. 
 
+Apropos deigen:
 1. Når deigen har hevet i 30 minutter deles den i to. Dekk dem til igjen og la dem heve i 30 minutter til
 2. Sett ovnen på 220 grader, så den er klar når du har dandert pizzaen
 3. Form deigene til runde fine pizzaer 
