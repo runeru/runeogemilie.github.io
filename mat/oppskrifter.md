@@ -15,6 +15,10 @@
  <img src="images/kombucha-batch1.png" alt="Komucha i glass" width="200">
  <br>
  </h3>
+ 
+ <p>
+Kombucha er frermentert te. Smaker friskt og godt!
+</p>
 
 ### Ingredienser
 1. Te
