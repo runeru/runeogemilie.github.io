@@ -56,8 +56,16 @@ Nå er en fin tid å starte på sausen:
 5. Stekes i ca 8-10 minutter. 
 6. Nyt <3
 
+<br>
+<hr>
+
 
 ## Ketchup:
 1. Tomater
 2. honning
 3. hvitløk
+
+
+<br>
+<hr>
+
