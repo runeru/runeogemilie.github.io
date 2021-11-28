@@ -1,8 +1,10 @@
 # Oppskrifter på ting vi syns er digg!
 
-<p align="center" font-size="80px">
+<p align="center">
  <br>
+ <h3>
  • <a href="#kombucha">Kombucha</a> • <a href="#pizza">Pizza</a> • <a href="#ketchup">Ketchup</a>
+  <h3>
  <br>
 </p>
 <hr>
