@@ -19,7 +19,7 @@
  <p>
 Kombucha er fermentert te. 
  <br>
-Friskt, godt og kjempe sundt!
+Friskt, godt og kjempe sunt!
 </p>
 
 ### Ingredienser
