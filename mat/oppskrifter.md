@@ -12,9 +12,12 @@
 2. vann
 3. sukker
 
+<hr>
+<br>
+
 ## Pizza:
 
-<h2 align="center">
+<h2>
  <br>
 <img src="images/pizza-no-gb.png" alt="Nydelig pizza" width="200" >
  <br>
@@ -24,13 +27,13 @@
 Vår klassiske torsdags-pizza!
 </p>
 
-### Pizzadeig (til 2 pizzaer)
+### Pizzadeigen (2 pizzaer):
 * 500g mel (Helst hvetemel, men vi kjører spelt for å være litt sunnere)
 * ca 1/3 pakke tørrgjær (kan erstattes med 10g fersk gjær)
 * 5g salt
 * 325ml vann (romtemperert. Bedre for kaldt enn for varmt)
 
-### Pizzasaus
+### Pizzasausen
 
 ### Slik gjør du
 1. Ha alle de tørre inngrediensene i en bolle. 
