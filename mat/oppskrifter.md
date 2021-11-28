@@ -19,11 +19,11 @@
 
 ## Pizza:
 
-<h2>
+<h3>
  <br>
 <img src="images/pizza-no-gb.png" alt="Nydelig pizza" width="200" >
  <br>
-</h2>
+</h3>
 
 <p>
 Vår klassiske torsdags-pizza!
