@@ -160,7 +160,8 @@ hr {
   margin-top: 1em;
   margin-bottom: 1em;
   border: 0;
-  border-top: solid 3px #ddd; //default = solid 1px #ddd
+  border-top: dashed 2px #9ddcff; //default = solid 1px #ddd
+  border-radius: 5px; // Default = ikke noe border radius
 }
 
 table {
