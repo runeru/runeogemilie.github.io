@@ -52,7 +52,7 @@ Vår klassiske torsdags-pizza!
 
 ### Pizzasausen
 * 1/2 løk
-* 6 hvitløksfedd (eller 1kinesisk hvitløk)
+* 6 hvitløksfedd (eller 1 kinesisk hvitløk)
 * 3ss olivenolje
 * 4ss tomatpurè
 * 1 boks hakka tomater
