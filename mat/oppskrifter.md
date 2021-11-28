@@ -13,18 +13,15 @@
 3. sukker
 
 ## Pizza:
-Ingredients
-(makes 2 x large pizzas) 
 
-For the dough 
+<img src="images/pizza-no-gb.png" alt="Nydelig pizza" width="200" >
 
-500g strong flour 
-5g salt 
-10g fresh yeast 
-325ml lukewarm water 
+<br>
+<p>
+Hver torsdag er det pizza-torsdag og det er ikke dumt, for dette er vel en av de bedre pizzaene vi kan spise!
+</p>
 
-
-### Pizzadeig (Blir 2 stk)
+### Pizzadeig (til 2 pizzaer)
 * 500g mel (Helst hvetemel, men vi kjører spelt for å være litt sunnere)
 * ca 1/3 pakke tørrgjær (kan erstattes med 10g fersk gjær)
 * 5g salt
@@ -32,8 +29,7 @@ For the dough
 
 ### Pizzasaus
 
-### Framgangsmåte
-**Lag deigen først** 
+### Slik gjør du
 1. Ha alle de tørre inngrediensene i en bolle. 
 2. Ha i vann og miks det godt sammen. 
 3. Hell deigen ut på benken og kna den i 10 minutter. Man kjenner den den blir digg og luftig. 
