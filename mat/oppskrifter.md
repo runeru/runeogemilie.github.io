@@ -14,11 +14,14 @@
 
 ## Pizza:
 
+<h2 align="center">
+ <br>
 <img src="images/pizza-no-gb.png" alt="Nydelig pizza" width="200" >
+ <br>
+</h2>
 
-<br>
 <p>
-Hver torsdag er det pizza-torsdag og det er ikke dumt, for dette er vel en av de bedre pizzaene vi kan spise!
+Vår klassiske torsdags-pizza!
 </p>
 
 ### Pizzadeig (til 2 pizzaer)
