@@ -71,8 +71,8 @@ Vår klassiske torsdags-pizza!
  
 Nå er en fin tid å starte på sausen:
 1. Finhakk løk og hvitløk og stek dem gyldne i panna
-2. Ha oppi tomatpurè og hakka tomater
-3. Ha oppi krydderne og smak til med salt og pepper
+2. Ha i tomatpurè og la den putre litt før du har i hakka tomater
+3. Tilsett resten og smak til med salt og pepper
 4. La stå og småkoke til pizzadeigen er klar. 
 
 Apropos deigen:
