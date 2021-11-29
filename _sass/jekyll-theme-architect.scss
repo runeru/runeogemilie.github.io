@@ -1,10 +1,12 @@
 @import "normalize";
 @import "rouge-github";
 @import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
+@import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;800&display=swap');
 
 /* LAYOUT STYLES */
 body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Poppins', 'Helvetica Neue', Helvetica, Arial, serif; //Poppins er mitt påfunn
   font-size: 15px;
   font-weight: 400;
   line-height: 1.5;
@@ -74,6 +76,7 @@ header h2 {
 }
 
 aside#sidebar {
+  font-family: 'Comforter Brush', cursive; // min linje
   float: right;
   width: 200px;
   min-height: 504px;
