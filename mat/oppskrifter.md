@@ -68,7 +68,7 @@ Vår klassiske torsdags-pizza!
 ### Slik gjør du
 1. Ha alle de tørre inngrediensene i en bolle. 
 2. Ha i vann og miks det godt sammen. 
-3. Hell deigen ut på benken og kna den i 10 minutter. Man kjenner den den blir digg og luftig. 
+3. Hell deigen ut på benken og kna den i 10 minutter. Man kjenner når den blir digg og luftig. 
 4. Dekk den til med håndklede eller plastfolie og la den heve i 30 minutter. 
  
 Nå er en fin tid å starte på sausen:
